@@ -1,0 +1,33 @@
+.quiz__container {
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  border: 1px solid yellow;
+}
+
+.quiz_logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.quiz_logo > h3 {
+  margin-top: 20px;
+
+}
+
+.quiz_questions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #4224D9;
+  border-radius: 8px;
+  background-color: #654ED2;
+  width: 100%;
+  height: 200px;
+  font-size: 20px;
+  font-family: 'Segoe UI';
+  margin-bottom: 20px;
+}
